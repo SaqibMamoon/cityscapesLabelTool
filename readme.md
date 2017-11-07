@@ -5,7 +5,8 @@
 ## 一、标注工具使用说明
  Windows版和Linux版的使用方法是一样的。主要的不同点在于：  
  1. Windows用户可直接双击 **`cityscapesLabelTool.exe`** 运行   
- 2. Linux用户需要通过以下两种方式运行：    
+ 2. Linux用户需要通过以下两种方式运行： 
+    
  >   A、切换到 **`cityscapesLabelTool.py`**脚本所在目录，在终端运行：```python cityscapesLabelTool.py``` [enter]   
  >   B、使用IDE打开脚本，点击运行即可。     
 
@@ -48,8 +49,8 @@
 ##### 样例2：标注后结果
 ![](https://i.imgur.com/JaEZIyt.gif)
  
-##### 标注示例：    
-![](https://i.imgur.com/E8Emaq6.gif)
+##### 样例3：标注示例：    
+![标注示例](https://i.imgur.com/E8Emaq6.gif)
 
 ## 三、实习要求及津贴支付方式
 ### 1、实习要求
@@ -61,3 +62,6 @@
 
 
 ##### 若有任何疑问，欢迎随时在群里提出，我们会及时解决。
+
+
+> `声明：本工具仅供本群标注图片所用，不得以任何盈利目的进行传播`
