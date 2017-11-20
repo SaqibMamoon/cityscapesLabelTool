@@ -45,12 +45,14 @@
 ### 5.标注完成之后，千万记得要保存，要保存，保存。
 
 ##### 样例1、边缘的标记：     
-![](https://i.imgur.com/HSMF4XU.png)
+![边缘的标记](https://i.imgur.com/HSMF4XU.png)
 ##### 样例2：标注后结果
-![](https://i.imgur.com/JaEZIyt.gif)
+![标注后结果](https://i.imgur.com/JaEZIyt.gif)
  
 ##### 样例3：标注示例：    
 ![标注示例](https://i.imgur.com/E8Emaq6.gif)
+
+[样例3：标注示例,动图点击这里](https://github.com/opconty/cityscapesLabelTool/blob/master/files/%E6%A0%87%E6%B3%A8%E6%A0%B7%E4%BE%8B-%E8%BF%87%E7%A8%8B.gif)
 
 ## 三、实习要求及津贴支付方式
 ### 1、实习要求
